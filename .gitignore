@@ -1,0 +1,12 @@
+# 屏蔽 PyCharm 的所有配置文件夹
+.idea/
+
+# 屏蔽 Python 编译产生的缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 屏蔽虚拟环境（以后如果你用到了）
+venv/
+.venv/
+env/
