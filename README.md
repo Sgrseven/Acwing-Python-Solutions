@@ -31,3 +31,31 @@
 | [AcWing 618. 燃料消耗](https://www.acwing.com/problem/content/620/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch01_%E9%A1%BA%E5%BA%8F%E8%AF%AD%E5%8F%A5/AcWing%20618.%20%E7%87%83%E6%96%99%E6%B6%88%E8%80%97.py) |
 | [AcWing 656. 钞票和硬币](https://www.acwing.com/problem/content/658/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch01_%E9%A1%BA%E5%BA%8F%E8%AF%AD%E5%8F%A5/AcWing%20656.%20%E9%92%9E%E7%A5%A8%E5%92%8C%E7%A1%AC%E5%B8%81.py) |
 | [AcWing 655. 天数转换](https://www.acwing.com/problem/content/657/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch01_%E9%A1%BA%E5%BA%8F%E8%AF%AD%E5%8F%A5/AcWing%20655.%20%E5%A4%A9%E6%95%B0%E8%BD%AC%E6%8D%A2.py) |
+
+## 2. 判断语句
+
+### 例题
+
+| 题目名称 | 题解链接 |
+| :---: | :---: |
+| [AcWing 665. 倍数](https://www.acwing.com/problem/content/667/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20665.%20倍数.py) |
+| [AcWing 660. 零食](https://www.acwing.com/problem/content/662/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20660.%20零食.py) |
+| [AcWing 669. 加薪](https://www.acwing.com/problem/content/671/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20669.%20加薪.py) |
+| [AcWing 671. DDD](https://www.acwing.com/problem/content/673/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20671.%20DDD.py) |
+| [AcWing 667. 游戏时间](https://www.acwing.com/problem/content/669/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20667.%20游戏时间.py) |
+| [AcWing 663. 简单排序](https://www.acwing.com/problem/content/665/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20663.%20简单排序.py) |
+
+### 习题
+
+| 题目名称 | 题解链接 |
+| :---: | :---: |
+| [AcWing 657. 选择练习1](https://www.acwing.com/problem/content/659/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20657.%20选择练习1.py) |
+| [AcWing 664. 三角形](https://www.acwing.com/problem/content/666/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20664.%20三角形.py) |
+| [AcWing 659. 区间](https://www.acwing.com/problem/content/661/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20659.%20区间.py) |
+| [AcWing 662. 点的坐标](https://www.acwing.com/problem/content/664/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20662.%20点的坐标.py) |
+| [AcWing 672. 税](https://www.acwing.com/problem/content/674/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20672.%20税.py) |
+| [AcWing 668. 游戏时间2](https://www.acwing.com/problem/content/670/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20668.%20游戏时间2.py) |
+| [AcWing 658. 一元二次方程公式](https://www.acwing.com/problem/content/660/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20658.%20一元二次方程公式.py) |
+| [AcWing 666. 三角形类型](https://www.acwing.com/problem/content/668/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20666.%20三角形类型.py) |
+| [AcWing 670. 动物](https://www.acwing.com/problem/content/672/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20670.%20动物.py) |
+| [AcWing 661. 平均数3](https://www.acwing.com/problem/content/663/) | [题解](https://github.com/Sgrseven/Acwing-Python-Solutions/blob/main/ch02_%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5/AcWing%20661.%20平均数3.py) |
